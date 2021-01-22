@@ -1,0 +1,10 @@
+Package: com.greg0109.freedom
+Name: Freedom
+Architecture: iphoneos-arm
+Description: Free yourself from the hook of the apps!
+Maintainer: Greg0109
+Author: Greg0109
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 1.0
+Installed-Size: 280
